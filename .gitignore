@@ -160,4 +160,6 @@ cython_debug/
 #.idea/
 
 # app files
-*.csv
+cookies.json
+comments/*
+!comments/.keep
